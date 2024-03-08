@@ -1,0 +1,18 @@
+
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+[34m[1mwandb[39m[22m: [33mWARNING[39m When using several event log directories, please call `wandb.tensorboard.patch(root_logdir="...")` before `wandb.init`
+Training starts for epoch number 1
+Training Loss tf.Tensor(0.21187374, shape=(), dtype=float32)
+The accuracy is:  tf.Tensor(0.93690467, shape=(), dtype=float32)
+Validation loss tf.Tensor(0.22361447, shape=(), dtype=float32)
+The Validation accuracy is:  tf.Tensor(0.9419238, shape=(), dtype=float32)
+Training starts for epoch number 2
+Training Loss tf.Tensor(0.23803632, shape=(), dtype=float32)
+The accuracy is:  tf.Tensor(0.9399891, shape=(), dtype=float32)
+Validation loss tf.Tensor(0.5607103, shape=(), dtype=float32)
+The Validation accuracy is:  tf.Tensor(0.8475499, shape=(), dtype=float32)
+Training starts for epoch number 3
+Training Loss tf.Tensor(0.21208471, shape=(), dtype=float32)
+The accuracy is:  tf.Tensor(0.94252926, shape=(), dtype=float32)
+Validation loss tf.Tensor(0.2846537, shape=(), dtype=float32)
+The Validation accuracy is:  tf.Tensor(0.94555354, shape=(), dtype=float32)

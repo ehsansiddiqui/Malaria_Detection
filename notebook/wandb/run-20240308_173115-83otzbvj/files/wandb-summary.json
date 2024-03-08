@@ -1,0 +1,1 @@
+{"train/global_step": 1, "_timestamp": 1709915789.210317, "train/Training Loss": 0.23803631961345673, "global_step": 1, "train/Training Accuracy": 0.9399890899658203, "val/global_step": 1, "val/Validation Loss": 0.5607103109359741, "val/Validation Accuracy": 0.8475499153137207, "_runtime": 314.1226968765259, "_step": 1}
