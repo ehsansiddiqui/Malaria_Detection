@@ -52,3 +52,41 @@ config: {}
 2024-03-08 17:45:12,448 INFO    MainThread:26750 [wandb_init.py:_resume_backend():442] resuming backend
 2024-03-08 17:45:16,503 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
 2024-03-08 17:45:16,503 INFO    MainThread:26750 [wandb_init.py:_pause_backend():437] pausing backend
+2024-03-08 18:06:37,319 INFO    MainThread:26750 [wandb_init.py:_resume_backend():442] resuming backend
+2024-03-08 18:06:37,323 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-08 18:06:37,324 INFO    MainThread:26750 [wandb_init.py:_pause_backend():437] pausing backend
+2024-03-08 18:23:15,545 INFO    MainThread:26750 [wandb_init.py:_resume_backend():442] resuming backend
+2024-03-08 18:23:15,549 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-08 18:23:15,549 INFO    MainThread:26750 [wandb_init.py:_pause_backend():437] pausing backend
+2024-03-08 18:23:27,537 INFO    MainThread:26750 [wandb_init.py:_resume_backend():442] resuming backend
+2024-03-08 18:23:28,027 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-08 18:23:28,027 INFO    MainThread:26750 [wandb_init.py:_pause_backend():437] pausing backend
+2024-03-08 18:23:33,314 INFO    MainThread:26750 [wandb_init.py:_resume_backend():442] resuming backend
+2024-03-08 18:23:33,316 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-08 18:23:33,316 INFO    MainThread:26750 [wandb_init.py:_pause_backend():437] pausing backend
+2024-03-08 18:23:35,560 INFO    MainThread:26750 [wandb_init.py:_resume_backend():442] resuming backend
+2024-03-08 18:23:35,560 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-08 18:23:35,560 INFO    MainThread:26750 [wandb_init.py:_pause_backend():437] pausing backend
+2024-03-08 18:23:39,300 INFO    MainThread:26750 [wandb_init.py:_resume_backend():442] resuming backend
+2024-03-08 18:23:39,303 INFO    MainThread:26750 [pyagent.py:run():324] Starting sweep agent: entity=None, project=None, count=5
+2024-03-08 18:23:51,387 WARNING MsgRouterThr:26750 [router.py:message_loop():77] message_loop has been closed
+2024-03-08 18:24:12,421 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-08 18:25:07,847 INFO    MainThread:26750 [pyagent.py:run():324] Starting sweep agent: entity=None, project=None, count=5
+2024-03-08 18:25:30,538 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-08 18:26:38,021 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-08 18:27:06,123 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-08 18:27:20,190 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-08 18:27:48,947 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-08 18:30:10,217 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 13:40:48,030 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 13:42:16,280 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 13:42:26,350 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 13:49:15,470 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 13:50:20,070 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 13:52:55,006 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 13:55:52,783 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 13:57:19,556 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 13:57:36,286 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 13:57:48,859 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 14:01:36,645 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 14:01:57,973 INFO    MainThread:26750 [jupyter.py:save_ipynb():373] not saving jupyter notebook

@@ -16,3 +16,7 @@ Training Loss tf.Tensor(0.21208471, shape=(), dtype=float32)
 The accuracy is:  tf.Tensor(0.94252926, shape=(), dtype=float32)
 Validation loss tf.Tensor(0.2846537, shape=(), dtype=float32)
 The Validation accuracy is:  tf.Tensor(0.94555354, shape=(), dtype=float32)
+Training Complete !!!
+Create sweep with ID: q74cwara
+Sweep URL: https://wandb.ai/ihsaansiddiqui/uncategorized/sweeps/q74cwara
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.

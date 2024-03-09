@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "/Users/ehsansiddique/anaconda3/lib/python3.11/site-packages/wandb/sdk/wandb_config.py", line 162, in __getattr__
+    return self.__getitem__(key)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ehsansiddique/anaconda3/lib/python3.11/site-packages/wandb/sdk/wandb_config.py", line 130, in __getitem__
+    return self._items[key]
+           ~~~~~~~~~~~^^^^^
+KeyError: 'KERNAL_SIZE'
+The above exception was the direct cause of the following exception:
+Traceback (most recent call last):
+  File "/var/folders/7d/0f182w6x04363vjqlgfndc7c0000gn/T/ipykernel_6653/2024693756.py", line 4, in train
+    model = model_tune_wandb(config)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/folders/7d/0f182w6x04363vjqlgfndc7c0000gn/T/ipykernel_6653/3480477982.py", line 9, in model_tune_wandb
+    Conv2D(filters =config.N_FILTERS, kernel_size = config.KERNAL_SIZE, strides = config.N_STRIDES, padding = 'valid', activation = 'relu', kernel_regularizer = L2(config.REGULARIZATION_RATE)),
+                                                    ^^^^^^^^^^^^^^^^^^
+  File "/Users/ehsansiddique/anaconda3/lib/python3.11/site-packages/wandb/sdk/wandb_config.py", line 164, in __getattr__
+    raise AttributeError(
+AttributeError: <class 'wandb.sdk.wandb_config.Config'> object has no attribute 'KERNAL_SIZE'

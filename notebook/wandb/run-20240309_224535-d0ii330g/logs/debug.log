@@ -1,0 +1,46 @@
+2024-03-09 22:45:35,296 INFO    MainThread:6653 [wandb_setup.py:_flush():76] Current SDK version is 0.16.3
+2024-03-09 22:45:35,296 INFO    MainThread:6653 [wandb_setup.py:_flush():76] Configure stats pid to 6653
+2024-03-09 22:45:35,296 INFO    MainThread:6653 [wandb_setup.py:_flush():76] Loading settings from /Users/ehsansiddique/.config/wandb/settings
+2024-03-09 22:45:35,296 INFO    MainThread:6653 [wandb_setup.py:_flush():76] Loading settings from /Users/ehsansiddique/Downloads/Malaria_Detection/notebook/wandb/settings
+2024-03-09 22:45:35,296 INFO    MainThread:6653 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'project': 'uncategorized', 'entity': 'ihsaansiddiqui', 'root_dir': '/Users/ehsansiddique/Downloads/Malaria_Detection/notebook', 'run_id': 'd0ii330g', 'sweep_param_path': '/Users/ehsansiddique/Downloads/Malaria_Detection/notebook/wandb/sweep-j5wrng66/config-d0ii330g.yaml', 'sweep_id': 'j5wrng66'}
+2024-03-09 22:45:35,296 INFO    MainThread:6653 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-03-09 22:45:35,296 INFO    MainThread:6653 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-03-09 22:45:35,296 INFO    MainThread:6653 [wandb_init.py:_log_setup():526] Logging user logs to /Users/ehsansiddique/Downloads/Malaria_Detection/notebook/wandb/run-20240309_224535-d0ii330g/logs/debug.log
+2024-03-09 22:45:35,296 INFO    MainThread:6653 [wandb_init.py:_log_setup():527] Logging internal logs to /Users/ehsansiddique/Downloads/Malaria_Detection/notebook/wandb/run-20240309_224535-d0ii330g/logs/debug-internal.log
+2024-03-09 22:45:35,296 INFO    MainThread:6653 [wandb_init.py:_jupyter_setup():472] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x2d8309e50>
+2024-03-09 22:45:35,296 INFO    MainThread:6653 [wandb_init.py:init():566] calling init triggers
+2024-03-09 22:45:35,296 INFO    MainThread:6653 [wandb_init.py:init():573] wandb.init called with sweep_config: {'DROPOUT_RATE': 0.16980879980747154, 'LEARNING_RATE': 0.006563057695496103, 'N_DENSE_1': 16, 'N_DENSE_2': 64, 'REGULARIZATION_RATE': 0.05403028244922495}
+config: {}
+2024-03-09 22:45:35,296 INFO    MainThread:6653 [wandb_init.py:init():616] starting backend
+2024-03-09 22:45:35,296 INFO    MainThread:6653 [wandb_init.py:init():620] setting up manager
+2024-03-09 22:45:35,299 INFO    MainThread:6653 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-03-09 22:45:35,300 INFO    MainThread:6653 [wandb_init.py:init():628] backend started and connected
+2024-03-09 22:45:35,308 INFO    MainThread:6653 [wandb_run.py:_config_callback():1343] config_cb None None {'DROPOUT_RATE': 0.16980879980747154, 'LEARNING_RATE': 0.006563057695496103, 'N_DENSE_1': 16, 'N_DENSE_2': 64, 'REGULARIZATION_RATE': 0.05403028244922495}
+2024-03-09 22:45:35,309 INFO    MainThread:6653 [wandb_run.py:_label_probe_notebook():1295] probe notebook
+2024-03-09 22:45:35,309 INFO    MainThread:6653 [wandb_run.py:_label_probe_notebook():1305] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-03-09 22:45:35,309 INFO    MainThread:6653 [wandb_init.py:init():720] updated telemetry
+2024-03-09 22:45:35,342 INFO    MainThread:6653 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2024-03-09 22:45:35,677 INFO    MainThread:6653 [wandb_run.py:_on_init():2262] communicating current version
+2024-03-09 22:45:35,749 INFO    MainThread:6653 [wandb_run.py:_on_init():2271] got version response upgrade_message: "wandb version 0.16.4 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-03-09 22:45:35,749 INFO    MainThread:6653 [wandb_init.py:init():804] starting run threads in backend
+2024-03-09 22:45:39,631 INFO    MainThread:6653 [wandb_run.py:_console_start():2241] atexit reg
+2024-03-09 22:45:39,631 INFO    MainThread:6653 [wandb_run.py:_redirect():2096] redirect: wrap_raw
+2024-03-09 22:45:39,632 INFO    MainThread:6653 [wandb_run.py:_redirect():2161] Wrapping output streams.
+2024-03-09 22:45:39,632 INFO    MainThread:6653 [wandb_run.py:_redirect():2186] Redirects installed.
+2024-03-09 22:45:39,632 INFO    MainThread:6653 [wandb_init.py:init():847] run started, returning control to user process
+2024-03-09 22:45:39,634 INFO    MainThread:6653 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 22:45:39,634 INFO    MainThread:6653 [wandb_init.py:_pause_backend():437] pausing backend
+2024-03-09 22:45:58,967 INFO    MainThread:6653 [wandb_init.py:_resume_backend():442] resuming backend
+2024-03-09 22:45:59,398 INFO    MainThread:6653 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 22:45:59,399 INFO    MainThread:6653 [wandb_init.py:_pause_backend():437] pausing backend
+2024-03-09 22:46:00,546 INFO    MainThread:6653 [wandb_init.py:_resume_backend():442] resuming backend
+2024-03-09 22:46:00,549 INFO    MainThread:6653 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 22:46:00,549 INFO    MainThread:6653 [wandb_init.py:_pause_backend():437] pausing backend
+2024-03-09 22:46:01,430 INFO    MainThread:6653 [wandb_init.py:_resume_backend():442] resuming backend
+2024-03-09 22:46:01,432 INFO    MainThread:6653 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-03-09 22:46:01,432 INFO    MainThread:6653 [wandb_init.py:_pause_backend():437] pausing backend
+2024-03-09 22:46:02,532 INFO    MainThread:6653 [wandb_init.py:_resume_backend():442] resuming backend
+2024-03-09 22:46:02,536 INFO    MainThread:6653 [pyagent.py:run():324] Starting sweep agent: entity=None, project=None, count=5
+2024-03-09 22:46:11,830 WARNING MsgRouterThr:6653 [router.py:message_loop():77] message_loop has been closed
+2024-03-09 22:46:40,403 INFO    MainThread:6653 [jupyter.py:save_ipynb():373] not saving jupyter notebook

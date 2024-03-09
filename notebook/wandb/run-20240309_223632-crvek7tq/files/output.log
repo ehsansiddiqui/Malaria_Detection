@@ -1,0 +1,31 @@
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+[34m[1mwandb[39m[22m: [33mWARNING[39m The save_model argument by default saves the model in the HDF5 format that cannot save custom objects like subclassed models and custom layers. This behavior will be deprecated in a future release in favor of the SavedModel format. Meanwhile, the HDF5 model is saved as W&B files and the SavedModel as W&B Artifacts.
+Epoch 1/5
+
+
+
+
+22/22 [==============================] - 13s 487ms/step - loss: 6.5057 - accuracy: 0.4940
+Epoch 2/5
+
+
+
+
+22/22 [==============================] - 12s 486ms/step - loss: 6.4577 - accuracy: 0.5038
+Epoch 3/5
+
+
+22/22 [==============================] - 11s 468ms/step - loss: 2.9709 - accuracy: 0.4962
+Epoch 4/5
+
+
+
+
+22/22 [==============================] - 11s 466ms/step - loss: 3.3544 - accuracy: 0.4918
+Epoch 5/5
+
+
+
+
+
+22/22 [==============================] - 11s 469ms/step - loss: 2.4215 - accuracy: 0.5005

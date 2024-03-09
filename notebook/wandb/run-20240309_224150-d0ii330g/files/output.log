@@ -1,0 +1,33 @@
+
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+Epoch 1/5
+
+
+
+
+22/22 [==============================] - 12s 471ms/step - loss: 6.4202 - accuracy: 0.4842
+Epoch 2/5
+
+
+
+22/22 [==============================] - 11s 467ms/step - loss: 7.0723 - accuracy: 0.5038
+Epoch 3/5
+
+
+
+
+
+22/22 [==============================] - 13s 535ms/step - loss: 3.5885 - accuracy: 0.5024
+Epoch 4/5
+
+
+
+
+22/22 [==============================] - 13s 502ms/step - loss: 3.6145 - accuracy: 0.4882
+Epoch 5/5
+
+
+
+
+
+22/22 [==============================] - 12s 494ms/step - loss: 3.4052 - accuracy: 0.4926

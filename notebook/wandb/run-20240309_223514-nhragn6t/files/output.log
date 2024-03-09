@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/var/folders/7d/0f182w6x04363vjqlgfndc7c0000gn/T/ipykernel_6653/2024693756.py", line 4, in train
+    model = model_tune_wandb(config)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/folders/7d/0f182w6x04363vjqlgfndc7c0000gn/T/ipykernel_6653/4111219820.py", line 12, in model_tune_wandb
+    Dropout(rate = hparams[HP_DROPOUT]),
+                   ^^^^^^^
+NameError: name 'hparams' is not defined

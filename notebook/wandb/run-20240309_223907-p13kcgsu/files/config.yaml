@@ -1,0 +1,78 @@
+wandb_version: 1
+
+LEARNING_RATE:
+  desc: null
+  value: 0.003708241722034985
+N_EPOCHS:
+  desc: null
+  value: 5
+BATCH_SIZE:
+  desc: null
+  value: 128
+DROPOUT_RATE:
+  desc: null
+  value: 0.32298664565569846
+IM_SIZE:
+  desc: null
+  value: 224
+REGULARIZATION_RATE:
+  desc: null
+  value: 0.05391150330060353
+N_FILTERS:
+  desc: null
+  value: 6
+KERNEL_SIZE:
+  desc: null
+  value: 3
+N_STRIDES:
+  desc: null
+  value: 1
+POOL_SIZE:
+  desc: null
+  value: 2
+N_DENSE_1:
+  desc: null
+  value: 128
+N_DENSE_2:
+  desc: null
+  value: 32
+_wandb:
+  desc: null
+  value:
+    python_version: 3.11.4
+    cli_version: 0.16.3
+    framework: keras
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    start_time: 1710020347.050247
+    t:
+      1:
+      - 2
+      - 3
+      - 5
+      - 53
+      - 55
+      - 80
+      2:
+      - 2
+      - 3
+      - 5
+      - 53
+      - 55
+      - 80
+      3:
+      - 2
+      - 3
+      - 8
+      - 16
+      - 23
+      - 37
+      4: 3.11.4
+      5: 0.16.3
+      8:
+      - 1
+      - 4
+      - 5
+      10:
+      - 9
+      13: darwin-arm64
