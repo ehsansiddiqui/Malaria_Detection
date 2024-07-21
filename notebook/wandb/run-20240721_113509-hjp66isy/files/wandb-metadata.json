@@ -1,0 +1,36 @@
+{
+    "os": "macOS-14.5-arm64-arm-64bit",
+    "python": "3.11.4",
+    "heartbeatAt": "2024-07-21T09:35:21.670668",
+    "startedAt": "2024-07-21T09:35:09.507472",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Downloads/Malaria_Detection/notebook/Malaria Detection.ipynb",
+    "codePathLocal": null,
+    "root": "/Users/ehsansiddique/Downloads/Malaria_Detection",
+    "git": {
+        "remote": "https://github.com/ehsansiddiqui/Malaria_Detection.git",
+        "commit": "2a216b8e56970b3a9d642a00fd6ef4dd83e72b4f"
+    },
+    "email": "ihsaansiddiqui@gmail.com",
+    "host": "Ehsans-MacBook-Pro.local",
+    "username": "ehsansiddique",
+    "executable": "/Users/ehsansiddique/anaconda3/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 268.5791435241699
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 32.0
+    }
+}
